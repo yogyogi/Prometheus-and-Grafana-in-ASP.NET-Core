@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Yogesh\\SEO\\Yogihosting\\new\\prometheus grafana\\ProGraTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{260CFE20-74BD-0350-AE37-D7EEDB6B6F39}|ProGraTutorial\\ProGraTutorial.csproj|d:\\yogesh\\seo\\yogihosting\\new\\prometheus grafana\\progratutorial\\progratutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260CFE20-74BD-0350-AE37-D7EEDB6B6F39}|ProGraTutorial\\ProGraTutorial.csproj|solutionrelative:progratutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260CFE20-74BD-0350-AE37-D7EEDB6B6F39}|ProGraTutorial\\ProGraTutorial.csproj|d:\\yogesh\\seo\\yogihosting\\new\\prometheus grafana\\progratutorial\\progratutorial\\models\\appcustommeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260CFE20-74BD-0350-AE37-D7EEDB6B6F39}|ProGraTutorial\\ProGraTutorial.csproj|solutionrelative:progratutorial\\models\\appcustommeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\prometheus grafana\\ProGraTutorial\\ProGraTutorial\\Program.cs",
+              "RelativeDocumentMoniker": "ProGraTutorial\\Program.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\prometheus grafana\\ProGraTutorial\\ProGraTutorial\\Program.cs",
+              "RelativeToolTip": "ProGraTutorial\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:04:55.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppCustomMeter.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\prometheus grafana\\ProGraTutorial\\ProGraTutorial\\Models\\AppCustomMeter.cs",
+              "RelativeDocumentMoniker": "ProGraTutorial\\Models\\AppCustomMeter.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\prometheus grafana\\ProGraTutorial\\ProGraTutorial\\Models\\AppCustomMeter.cs",
+              "RelativeToolTip": "ProGraTutorial\\Models\\AppCustomMeter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:26:27.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
